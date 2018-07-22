@@ -1,0 +1,2 @@
+lnacc SP sd ans ASNCKBKNÇçdc DABCKNSVÇNSdv
+DVDSVDKNVKSnSNVL
