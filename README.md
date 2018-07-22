@@ -1,5 +1,4 @@
-Meu primeiro sistema no GIT
+Meu primeiro sistema no GIT Hub (alterado e atualizado)
 
-Alterando novamente, após utilizar o comando git reset.
 
-ALTERAÇÕES FEITAS NO BRANCH MASTER:
+
