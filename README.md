@@ -1,4 +1,4 @@
-Meu primeiro sistema no GIT Hub (alterado e atualizado)
+Meu primeiro sistema no GIT Hub.
 
 
 
